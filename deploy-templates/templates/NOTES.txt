@@ -1,0 +1,1 @@
+1. Application java-maven-java21-multimodule has been successfully deployed!!
